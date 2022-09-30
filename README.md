@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports and data science
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 Reach out to me on Github :)
+- 📫 Reach me on twitter to work together :)
 
 <!---
 tom-boyle/tom-boyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
