@@ -3,7 +3,7 @@
     🏠 Currently living in Hong Kong 🇭🇰. <br/>
     👨‍💻 Working as an Integration Analyst.<br/>
     🔭 Building Crypto web apps.<br/>
-    🌱 Studying Cantonese.<br/>
+    🌱 Studying Computer Science.<br/>
     ☕️ I love coffee. <br/>
 <br>   
 
