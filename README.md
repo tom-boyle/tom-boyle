@@ -1,9 +1,11 @@
-🏠 Currently living in Hong Kong 🇭🇰. <br/>
-👨‍💻 Working as an Integration Analyst.<br/>
-🔭 Building Crypto web apps.<br/>
-🌱 Studying Cantonese.<br/>
-☕️ I love coffee. <br/>
+- **About Me**:
 
+    🏠 Currently living in Hong Kong 🇭🇰. <br/>
+    👨‍💻 Working as an Integration Analyst.<br/>
+    🔭 Building Crypto web apps.<br/>
+    🌱 Studying Cantonese.<br/>
+    ☕️ I love coffee. <br/>
+<br>   
 
 - **Languages**:
     
