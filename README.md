@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tom-boyle
-- 👀 I’m interested in sports and data science
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 Reach me on twitter to work together :)
+🏠 I’m currently living in Hong Kong 🇭🇰. <br/>
+👨‍💻 I’m currently working as an Integration Analyst.<br/>
+🔭 I’m currently working on crypto web apps.<br/>
+🌱 I’m currently learning Cantonese 🤦‍♂.<br/>
+☕️ I love coffee. <br/>
 
 <!---
 tom-boyle/tom-boyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
