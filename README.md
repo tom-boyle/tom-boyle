@@ -1,7 +1,7 @@
-🏠 I’m currently living in Hong Kong 🇭🇰. <br/>
-👨‍💻 I’m currently working as an Integration Analyst.<br/>
-🔭 I’m currently working on crypto web apps.<br/>
-🌱 I’m currently learning Cantonese 🤦‍♂.<br/>
+🏠 Currently living in Hong Kong 🇭🇰. <br/>
+👨‍💻 Working as an Integration Analyst.<br/>
+🔭 Working on applications for cryptocurrencies.<br/>
+🌱 Studying Cantonese.<br/>
 ☕️ I love coffee. <br/>
 
 <!---
