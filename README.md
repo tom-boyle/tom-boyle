@@ -1,7 +1,7 @@
 - **About Me**:
 
     🏠 Currently living in Hong Kong 🇭🇰. <br/>
-    👨‍💻 Working as an Integration Analyst.<br/>
+    👨‍💻 Working as a Senior Business Analyst.<br/>
     🔭 Building Crypto web apps.<br/>
     🌱 Studying Computer Science.<br/>
     ☕️ I love coffee. <br/>
