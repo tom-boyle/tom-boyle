@@ -1,6 +1,6 @@
 - **About Me**:
 
-    🏠 Currently living in Hong Kong 🇭🇰. <br/>
+    🏠 Currently living in Sydney, AU. <br/>
     👨‍💻 Working as a Senior Business Analyst.<br/>
     🔭 Building Crypto web apps.<br/>
     🌱 Studying Computer Science.<br/>
