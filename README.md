@@ -1,7 +1,7 @@
 - **About Me**:
 
     🏠 Currently living in Sydney, AU. <br/>
-    👨‍💻 Working as an AI Prompt Engineer.<br/>
+    👨‍💻 Working as a Software Developer.<br/>
     🔭 Building Crypto web apps.<br/>
     🌱 Studying Computer Science.<br/>
     ☕️ I love coffee. <br/>
