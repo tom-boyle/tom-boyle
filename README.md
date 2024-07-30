@@ -1,10 +1,12 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 - **About Me**:
 
-    🏠 Currently living in Sydney, AU. <br/>
+    🏠 Currently living in Australia. <br/>
     👨‍💻 Working as a Software Developer.<br/>
     🔭 Building Crypto web apps.<br/>
     🌱 Studying Computer Science.<br/>
-    ☕️ I love coffee. <br/>
+    ☕️ Don't @me before my coffee. <br/>
 <br>   
 
 - **Languages**:
