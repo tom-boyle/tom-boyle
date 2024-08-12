@@ -7,7 +7,7 @@
     ☕️ Don't @me before my coffee. <br/>
 <br>
 
-![Gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxdzVvODZxZm8xNDRkcWFoeXIzcHJvN25qdGt2YjZiMDhndHNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdF3lMDlvCYWA/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxdzVvODZxZm8xNDRkcWFoeXIzcHJvN25qdGt2YjZiMDhndHNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdF3lMDlvCYWA/giphy.gif" width="250"/>
 
 - **Languages**:
     
