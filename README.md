@@ -2,7 +2,7 @@
 
     🏠 Currently living in Australia. <br/>
     👨‍💻 Working as a Software Developer.<br/>
-    🔭 Building Crypto web apps.<br/>
+    🔭 Building unique AI solutions.<br/>
     🌱 Studying Computer Science.<br/>
     ☕️ Don't @me before my coffee. <br/>
 <br>
