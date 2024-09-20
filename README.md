@@ -1,3 +1,5 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxdzVvODZxZm8xNDRkcWFoeXIzcHJvN25qdGt2YjZiMDhndHNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdF3lMDlvCYWA/giphy.gif" width="250"/>
+
 - **About Me**:
 
     🏠 Currently living in Australia. <br/>
@@ -9,7 +11,6 @@
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-boyle&show_icons=true&theme=radical)
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxdzVvODZxZm8xNDRkcWFoeXIzcHJvN25qdGt2YjZiMDhndHNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdF3lMDlvCYWA/giphy.gif" width="250"/>
 
 - **Languages**:
     
