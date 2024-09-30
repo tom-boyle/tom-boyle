@@ -9,7 +9,6 @@
     ☕️ Don't @me before my coffee. <br/>
 <br>
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-boyle&show_icons=true&theme=radical)
 
 
 - **Languages**:
