@@ -5,7 +5,7 @@
     🏠 Currently living in Australia. <br/>
     👨‍💻 Working as a Software Developer.<br/>
     🔭 Building unique AI solutions.<br/>
-    🌱 Studying Computer Science.<br/>
+    🌱 Merging tech with nature.<br/>
     ☕️ Don't @me before my coffee. <br/>
 <br>
 
