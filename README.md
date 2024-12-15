@@ -1,9 +1,5 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxdzVvODZxZm8xNDRkcWFoeXIzcHJvN25qdGt2YjZiMDhndHNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdF3lMDlvCYWA/giphy.gif" width="250" />
 
-# Hi there, I'm Tom Boyle 👋
-
----
-
 ## 👨‍💻 About Me:
 
 - 🌍 Based in Australia, working remotely as a Full Stack Developer.
