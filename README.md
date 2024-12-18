@@ -63,6 +63,7 @@
 - **[BioCommunicator](https://github.com/tom-boyle/biocommunicator)**: AI-driven platform for communicating with plants and animals.
 - **[Personal Portfolio](https://tomboyle.io)**: A modern portfolio showcasing my skills, projects, and blog.
 - **Machine Learning Model Deployment**: Hosted ML models on Vercel and AWS, using real-time data streams.
+- **[AFL Insights](https://github.com/tom-boyle/AFL-Player-Performance-Analyzer)**: Open-source initiative to leverage cutting-edge machine learning and AI techniques for analyzing AFL player performance.
 
 ---
 
