@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 
-- 🌍 Based in Australia, working remotely as a Full Stack Developer.
+- 🌍 Based in Australia, working remotely as a Lead Full Stack Developer.
 - 🔭 Passionate about merging **AI** with **nature**, and building unique, data-driven solutions.
 - 🌱 Currently exploring **Machine Learning** and **Edge AI**.
 - ☕️ Coffee-powered coder, please don't @me before my first cup of the day.
